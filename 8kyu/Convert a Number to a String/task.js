@@ -14,8 +14,4 @@ function numberToString(num) {
 
 // Test
 
-// describe("Tests", () => {
-//   it("test", () => {
-//     Test.assertEquals(numberToString(67), '67');
-//   });
-// });
+// Sum of positive
