@@ -2,7 +2,7 @@
 
 // Write a function to calculate factorial for a given input.If input is below 0 or above 12 throw an exception of type ArgumentOutOfRangeException (C#) or IllegalArgumentException(Java) or RangeException(PHP) or throw a RangeError(JavaScript) or ValueError(Python) or return -1(C).
 
-function factorial(n) {
+function factorial (n) {
   if (n === 1) {
     return 1
   }
